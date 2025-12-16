@@ -1,0 +1,3 @@
+O buscador busca palavras no indexador.
+A busca eh feita por uma palavra-chave.
+Buscadores sao uteis.

@@ -1,0 +1,5 @@
+O algoritmo de busca-binaria eh eficiente.
+Busca binaria? Sim, busca e mais busca!
+O algoritmo, o dado e a estrutura...
+ESTRUTURA de DADOS eh AED-I.
+Fim do arquivo de busca.

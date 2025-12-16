@@ -1,0 +1,20 @@
+O Exercício Programa (EP) de AED-I consiste em um indexador.
+Este indexador deve buscar palavras em arquivos de texto.
+A busca eh feita por palavra inteira e ignora-se o caso.
+Maiusculas e minusculas sao tratadas como iguais no programa.
+O usuario digita busca ou fim para encerrar o processo.
+AED-I eh uma disciplina fundamental de algoritmos e dados.
+A estrutura de dados pode ser uma lista ou uma arvore.
+Uma arvore binaria de busca eh eficiente para grandes textos.
+Listas sao simples, mas o tempo de busca eh linear.
+Sinais de pontuacao como pontos e virgulas sao ignorados.
+Hifens separam palavras compostas em duas partes distintas.
+Por exemplo, busca-binaria vira busca e tambem binaria.
+O codigo em C deve gerenciar a memoria corretamente.
+Malloc e free sao funcoes essenciais para este trabalho.
+O resultado da busca exibe o numero da linha formatado.
+O formato eh 00001 para a primeira linha do arquivo.
+O numero de comparacoes deve ser impresso em cada busca.
+Isso ajuda a comparar a performance da arvore e lista.
+O relatorio final deve discutir os resultados obtidos.
+Bons estudos e boa sorte com o seu codigo em C!
